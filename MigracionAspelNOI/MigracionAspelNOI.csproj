@@ -10,4 +10,8 @@
     <AssemblyName>MIGNOI</AssemblyName>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="FirebirdSql.Data.FirebirdClient" Version="8.5.4" />
+  </ItemGroup>
+
 </Project>
